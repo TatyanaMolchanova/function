@@ -1,7 +1,7 @@
 (function(){
 	'use strict';
 
-	if (false) {
+	// if (false) {
 
 		function ucFirst(str) {
 
@@ -22,9 +22,9 @@
 		}
 
 		ucFirst('');
-	}
+	// }
 
-	if (false) {
+	// if (false) {
 
 		function min(a,b) {
 			if (a < b) {
@@ -36,10 +36,10 @@
 		}
 
 		alert( min(1, 1) );
-	}
+	// }
 
 
-	if (false) {
+	// if (false) {
 		nextPrime:
 		  for (var i = 2; i <= 10; i++) {
 
@@ -49,10 +49,10 @@
 
 		    console.log( i ); 
 		  }
-	}
+	// }
 	
 
-	if (false) {
+	// if (false) {
 
 
 		function bigNum(num) {
@@ -67,7 +67,7 @@
 		}
 	    
 	    bigNum(10);
-	}
+	// }
 	
 
 })();
